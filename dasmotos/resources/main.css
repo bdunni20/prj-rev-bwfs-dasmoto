@@ -8,6 +8,7 @@ h1 {
 	text-align: center;
 	background-image: url(./images/pattern.jpeg);
 	display: block;
+	min-width:900px;
 }
 #green {
 	background-color: mediumspringgreen;
